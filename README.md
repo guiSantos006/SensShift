@@ -6,7 +6,7 @@ SensShift é uma aplicação web para converter sensibilidade de mira e DPI entr
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/6b9784f0-8039-4078-8453-eb430395dee7">
-    <img src="https://github.com/user-attachments/assets/6b9784f0-8039-4078-8453-eb430395dee7" width="800" alt="Preview do projeto">
+    <img src="https://github.com/user-attachments/assets/6b9784f0-8039-4078-8453-eb430395dee7" width="700" alt="Preview do projeto">
   </a>
 </p>
 
