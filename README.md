@@ -1,6 +1,18 @@
 # SensShift
 
-Conversor de sensibilidade de mira para jogos de FPS. Converta sensibilidade e DPI entre CS2, Valorant, Apex Legends, Overwatch 2, Call of Duty e Rainbow Six Siege mantendo a mesma distância física de giro (cm/360°).
+SensShift é uma aplicação web para converter sensibilidade de mira e DPI entre jogos de FPS, mantendo a mesma sensação física de movimento e consistência em qualquer título.
+
+## Preview
+
+[Preview do SensShift](https://seu-link-da-imagem-aqui)
+
+## Funcionalidades
+
+- Conversão de sensibilidade entre jogos populares
+- Suporte a DPI de origem e destino
+- Cálculo de distância física de giro (cm/360°)
+- Salvamento local de perfis favoritos
+- Interface moderna e responsiva
 
 ## Pré-requisitos
 
@@ -13,7 +25,7 @@ npm install
 npm run dev
 ```
 
-O app estará disponível em `http://localhost:3000`.
+O aplicativo ficará disponível em `http://localhost:3000`.
 
 ## Scripts
 
