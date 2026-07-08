@@ -1,0 +1,17 @@
+node_modules/
+build/
+dist/
+coverage/
+.vite/
+.vscode/
+.idea/
+*.tsbuildinfo
+*.log
+*.pem
+*.key
+*.p12
+*.sqlite
+*.db
+.DS_Store
+.env*
+!.env.example
