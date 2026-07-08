@@ -4,7 +4,11 @@ SensShift é uma aplicação web para converter sensibilidade de mira e DPI entr
 
 ## Preview
 
-[Preview do SensShift](https://seu-link-da-imagem-aqui)
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/6b9784f0-8039-4078-8453-eb430395dee7">
+    <img src="https://github.com/user-attachments/assets/6b9784f0-8039-4078-8453-eb430395dee7" width="800" alt="Preview do projeto">
+  </a>
+</p>
 
 ## Funcionalidades
 
@@ -36,6 +40,3 @@ O aplicativo ficará disponível em `http://localhost:3000`.
 | `npm run preview` | Preview do build de produção |
 | `npm run lint` | Verificação TypeScript |
 
-## Deploy
-
-O SensShift é uma SPA estática. Faça o deploy da pasta `dist/` em Vercel, Netlify, GitHub Pages ou qualquer host de arquivos estáticos.
