@@ -1,0 +1,5 @@
+{
+  "name": "SensShift",
+  "description": "Conversor de sensibilidade de mira para jogos de FPS com calculadora de DPI inteligente e intuitiva.",
+  "requestFramePermissions": []
+}
